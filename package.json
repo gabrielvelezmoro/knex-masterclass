@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/gabrielvelezmoro/knex-masterclass#readme",
   "dependencies": {
-    "nodemon": "^2.0.22"
+    "express": "^4.18.2",
+    "knex": "^2.4.2",
+    "nodemon": "^2.0.22",
+    "pg": "^8.11.0"
   }
 }
