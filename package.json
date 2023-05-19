@@ -1,0 +1,23 @@
+{
+  "name": "masterclass-knex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielvelezmoro/knex-masterclass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielvelezmoro/knex-masterclass/issues"
+  },
+  "homepage": "https://github.com/gabrielvelezmoro/knex-masterclass#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
