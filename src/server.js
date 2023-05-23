@@ -1,8 +1,7 @@
 const express =  require ('express');
-const knex = require('./database');
-const app = express()
 require('dotenv').config();
 const routes = require('./routes');
+const app = express()
 
 
 app.use(routes)
